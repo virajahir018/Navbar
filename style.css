@@ -42,7 +42,7 @@ button {
     display: none;
 }
 
-@media (max-width : 900px) {
+@media (max-width : 480px) {
     nav {
         padding: 0px 10px;
 
